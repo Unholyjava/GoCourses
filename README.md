@@ -1,1 +1,1 @@
-# GoCourses
+# GoIntelliasCourses
